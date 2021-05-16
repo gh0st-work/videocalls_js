@@ -2,7 +2,7 @@
 
 **Video chat via WebSocket + WebRTC**
 
-A simple basic implementation of a video chat in JavaScript, no extra bells and whistles, clean code
+A simple basic implementation of a video chat in JavaScript, no extra stuff, clean code
 
 Use **initializeVideoCall()** to run
 
