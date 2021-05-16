@@ -2,7 +2,9 @@
 
 **Video chat via WebSocket + WebRTC**
 
-A simple basic implementation of a video chat in JavaScript, no extra stuff, clean code
+A simple basic implementation of a video chat in JavaScript, no extra stuff, clean code.
+
+You just need the WebSocket server logic (I use Django 3 + channels + daphne) and styles for all this stuff. 
 
 Use **initializeVideoCall()** to run
 
